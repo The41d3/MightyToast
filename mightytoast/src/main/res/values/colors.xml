@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="default_info">#ff4659ff</color>
+	<color name="default_success">#ff228b22</color>
+	<color name="default_alert">#ffff0c09</color>
+	<color name="default_text_color">#ffffffff</color>
+</resources>
